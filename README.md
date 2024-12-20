@@ -23,4 +23,4 @@
      - Costos totales de pedidos en base a los detalles de productos y costos de envío.
    - **Exportación de Datos:** Guarda los datos generados en archivos CSV listos para ser usados por otros scripts como `ingestar_datos.py`.
 
-Ambos archivos están diseñados para trabajar de manera conjunta: `crear_datos.py` genera los datos, mientras que `ingestar_datos.py` los procesa y los carga en el sistema de destino. ¿Quieres que estos detalles se guarden en un archivo `.txt`?
+Ambos archivos están diseñados para trabajar de manera conjunta: `crear_datos.py` genera los datos, mientras que `ingestar_datos.py` los procesa y los carga en el sistema de destino.
